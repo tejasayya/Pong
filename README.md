@@ -12,6 +12,7 @@ hyper.py -
 
 Hyperparameter Tuning Results:
 Alpha | Gamma | Epsilon | Avg Timesteps | Avg Penalties
+
 0.1   | 0.5   | 0.1     | 182.82         | 0.00
 0.1   | 0.5   | 0.3     | 175.10         | 0.00
 0.1   | 0.5   | 0.5     | 186.64         | 0.00
